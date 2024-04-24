@@ -194,8 +194,3 @@ MEDIA_ROOT = 'static/images'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# import paypalrestsdk
-# paypalrestsdk.configure({
-#   "mode": "sandbox", # sandbox 
-#   "client_id": "AaXHOnHTpxMm0ZoI5eo904sDH7QvJhLD3fnSkBmKN9niQ4zaEOYYfK8xXKqy-E_TsRgsLnzrH9D6zTyQ",
-#   "client_secret": "ELy-DvSnHB1x23gTiGH3JbQO7oCR1P-aj4jL0boTyn7ucHJTQ0lYTmwO6KWExPMNAMsZOfSfS2KgTTVb" })
